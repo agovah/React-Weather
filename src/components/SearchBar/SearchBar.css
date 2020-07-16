@@ -1,0 +1,31 @@
+.searchBar {
+    width: 100%;
+}
+
+.inputSearchCity, .inputSearchCity:focus {
+    background-color: #fff;
+    border: 1px solid #494a7b;
+    color: #000;
+    font-family: 'Quicksand-Regular';
+    font-size: 1rem;
+    margin-right: 5px;
+    outline: none;
+    padding: 3px;
+}
+
+.buttonSearchCity {
+    background-color: #292958;
+    border: 1px solid #494a7b;
+    color: #fff;
+    font-family: 'Quicksand-Regular';
+    font-size: 1rem;
+    outline: none;
+    padding: 3px 8px;
+    transition: all 0.3s ease;
+}
+
+.buttonSearchCity:hover {
+    background-color: #fff;
+    color: #292958;
+    cursor: pointer;
+}

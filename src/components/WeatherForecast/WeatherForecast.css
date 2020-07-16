@@ -1,0 +1,15 @@
+.weatherForecast {
+    background-color: #292958;
+    border: 1px solid #494a7b;
+    color: #fff;
+    margin: 0 10px 15px;
+    padding: 30px 10px;
+    transition: all 0.3s ease;
+}
+
+.weatherForecast:hover {
+    background-color: #fff;
+    color: #292958;
+    cursor: pointer;
+    transform: translateY(-8px);
+}
