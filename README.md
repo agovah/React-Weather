@@ -17,7 +17,7 @@ $ npm start
 1. Get your API key @ https://www.weatherbit.io/
 2. Insert your API key to *App.js* file :
 ```
-const Token = 'YOUR_API_KEY'
+const API_KEY = 'YOUR_API_KEY'
 ```
 
 ## Available Scripts
