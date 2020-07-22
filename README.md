@@ -1,5 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Usage
+
+```
+$ https://github.com/agovah/React-Weather.git
+$ cd react React-Weather-master
+$ npm install
+$ npm start
+```
+## API key
+
+1. Get your API key @ https://www.weatherbit.io/
+2. Insert your API key to *App.js* file :
+```
+const Token = 'YOUR_API_KEY'
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
