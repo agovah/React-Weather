@@ -9,7 +9,7 @@ import SearchBar from './SearchBar/SearchBar';
 import WeatherForecast from './WeatherForecast/WeatherForecast';
 import WeatherToday from './WeatherToday/WeatherToday';
 
-const API_KEY = '71ba31508fe3496e9baff36604db0c41';
+const API_KEY = 'YOUR_API_KEY';
 
 class App extends Component {
 
