@@ -7,8 +7,8 @@ https://agovah.github.io/react-weather-demo/
 ## Usage
 
 ```
-$ https://github.com/agovah/React-Weather.git
-$ cd react React-Weather-master
+$ git clone https://github.com/agovah/React-Weather.git
+$ cd React-Weather-master
 $ npm install
 $ npm start
 ```
