@@ -1,4 +1,4 @@
-Simple weather app built with React.
+Weather forecast app built with React.
 
 ## Demo
 
