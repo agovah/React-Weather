@@ -1,4 +1,4 @@
-Weather forecast app built with React.
+Weather forecast app from Weatherbit API built with React.
 
 ## Demo
 
