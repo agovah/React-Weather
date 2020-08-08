@@ -12,6 +12,7 @@ $ cd React-Weather-master
 $ npm install
 $ npm start
 ```
+
 ## API key
 
 1. Get your API key @ https://www.weatherbit.io/
